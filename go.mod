@@ -7,6 +7,8 @@ require (
 	github.com/vektah/gqlparser/v2 v2.5.16
 )
 
+require github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
+
 require (
 	cloud.google.com/go v0.110.10 // indirect
 	cloud.google.com/go/compute v1.23.3 // indirect
